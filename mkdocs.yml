@@ -4,3 +4,5 @@ theme:
 
 site_author: Meek Msaki
 copyright: Analytica Labs 2023
+markdown_extensions:
+  - smarty

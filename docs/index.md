@@ -1,17 +1,18 @@
 # Welcome to Analytica
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We are a startup that wants to solve financial problems by empowering people with easy to use tools
 
-## Commands
+## Mission Statement
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Customer obsession
+* Specific targets
+* Goal driven developemnt
+* Equal opportunity
 
-## Project layout
+## Jobs
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Analytica is looking for a self-driven and detail oriented co-founder.
+
+Co-Founder
+
+* If you feel this role fits you, read our documentation and [email us](mailto:meek.dev3@gmail.com).
